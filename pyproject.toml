@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "mafiozi"
+version = "0.1.0"
+description = "The most advanced judging & tournir system for the sports mafia"
+authors = ["Igor Kuzmenkov <me@igorduino.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+django = "^4.2.7"
+
+[tool.poetry.group.dev]
+optional = true
+
+[tool.poetry.group.dev.dependencies]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
