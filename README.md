@@ -1,2 +1,2 @@
 # mafiozi
-The most advanced judging &amp; tournir system for the sports mafia
+The most advanced judging &amp; tournament system for the sports mafia
